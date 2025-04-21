@@ -13,6 +13,6 @@ Zrobiłem skan projektu, żeby go ocalić dla potomnych, bo prawdopodobnie jest 
 
 Przepisałem program w edytorze i przy okazji zmieniłem mnemoniki rozkazów na Z80 (były Intela 8080). 
 Pierwsze programy też pisałem "Intelem", bo nie miałem żadnego nowszego podręcznika. Oczywiście zrobiłem kilka błędów, ale szybko się z nimi uporałem. 
-Żeby sprawdzić, czy działa, będę musiał zbudować jakiś model, bo takiej pralki z pewnością nie znajdę.
+Takiej pralki z pewnością nie znajdę, więc żeby sprawdzić, czy działa, będę musiał zbudować jakiś model.
 Program jest napisany "blokująco", bo jest wierną kopią mechanicznego programatora.
 Kolejne kroki działają tak, jak w pierwowzorze.
